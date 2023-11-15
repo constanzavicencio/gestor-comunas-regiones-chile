@@ -1,4 +1,4 @@
-## Gestor de regiones y comunas de Chile con HTML5 y JavaScript
+## Gestor de regiones y comunas de Chile con HTML y JavaScript
 
 ### Importante
 
